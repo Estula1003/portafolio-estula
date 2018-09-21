@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "correo" : "Estula_Solari_10@hotmail.com",
+    "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "imagen" : "https://firebasestorage.googleapis.com/v0/b/portafolio-db.appspot.com/o/team-1.jpg?alt=media&token=f05bd7a1-e9fc-499d-9dd0-b456c57edd02",
+    "nombre" : "Edu Estula Solari",
+    "profesion" : "Ingeniero de Sistemas"
+  }, {
+    "correo" : "abril-mariel@hotmail.com",
+    "descripcion" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "imagen" : "https://firebasestorage.googleapis.com/v0/b/portafolio-db.appspot.com/o/team-2.jpg?alt=media&token=e64049eb-26cb-4a1c-bb6b-ab4442577316",
+    "nombre" : "Mariel Veramendi Padilla",
+    "profesion" : "Tenica de sistemas"
+  }, {
+    "correo" : "andy_daes@hotmail.com",
+    "descripcion" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imagen" : "https://firebasestorage.googleapis.com/v0/b/portafolio-db.appspot.com/o/team-3.jpg?alt=media&token=fa261bfc-156f-43c6-9615-23fcf5d31a81",
+    "nombre" : "Andy Estula Solari",
+    "profesion" : "Ingeniero Zootecnista"
+  } ]
+}
