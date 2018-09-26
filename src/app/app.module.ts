@@ -12,6 +12,7 @@ import { ItemComponent } from './cuerpo/item/item.component';
 
 //Rutas
 import { AppRouting } from './routing.module';
+import { BuscarComponent } from './cuerpo/buscar/buscar.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { AppRouting } from './routing.module';
     PiePaginaComponent,
     PortafolioComponent,
     NosotrosComponent,
-    ItemComponent
+    ItemComponent,
+    BuscarComponent
   ],
   
   imports: [
